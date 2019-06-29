@@ -1,0 +1,14 @@
+html{
+	scroll-behavior: smooth;
+}
+
+footer{
+   background:url(../images/bluebg.png)center/cover no-repeat;
+}
+.navbar  {padding-top:0 !important; padding-bottom:0 !important;}
+
+#verticalNav{
+  
+  max-width: 200px;
+}
+.rmfont{font-size: 1em;}

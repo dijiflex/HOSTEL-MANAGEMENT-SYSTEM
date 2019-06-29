@@ -1,0 +1,21 @@
+/* MEDIA QUERIES */
+
+
+@media screen and (min-width: 767px) /* 576px and Up Small Screen */ {
+  
+}
+
+@media screen and (min-width: 768px) /* 768px and Up Medium Screen */ {
+  #header .container .col h1 {
+    font-size: 4rem;
+  }
+}
+
+@media screen and (min-width: 992px) /* 576px and Up Lath*/ {
+  #header .container .col h1 {
+    font-size: 5rem;
+  }
+}
+
+@media screen and (min-width: 1200px) /* 576px and Up */ {
+}
